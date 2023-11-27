@@ -6,4 +6,5 @@ class Person:
     #Instance method definition
     def talk(self):
         print("Hello World!")
-    pass
+    def walk(self):
+        print("The person is walking.")
